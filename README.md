@@ -1,5 +1,9 @@
-# To access the website:
+# To Access The Website:
 https://Byeolah-Kwon.github.io/To-do-list
+
+# How It Looks Like:
+![sample page](https://github.com/user-attachments/assets/718ff5f8-3732-4dc2-84b1-c4e6dba4b1b7)
+
 
 # Getting Started with Create React App
 
