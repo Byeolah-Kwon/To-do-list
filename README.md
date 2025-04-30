@@ -1,3 +1,6 @@
+# To access the website:
+https://Byeolah-Kwon.github.io/To-do-list
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
