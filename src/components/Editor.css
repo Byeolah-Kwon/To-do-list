@@ -1,0 +1,21 @@
+.Editor{
+    display: flex;
+    gap: 8px;
+}
+
+.Editor input {
+    flex:1;
+    padding: 15px;
+    border: 2px solid rgb(224, 201, 173);
+    border-radius: 5px;
+    /* ; 부모만큼 꽉 채우기 */
+}
+
+.Editor button {
+    cursor: pointer;
+    border: 2px solid rgb(224, 201, 173);
+    color: rgb(75, 74, 74);
+    background-color: rgb(224, 201, 173);
+    width: 80px;
+    border-radius: 5px;
+}
